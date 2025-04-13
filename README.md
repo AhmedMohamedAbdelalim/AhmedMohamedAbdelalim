@@ -1,83 +1,97 @@
-Hi there, I'm Ahmed Abdelalim 👋
-<p align="center"> <a href="https://www.linkedin.com/in/ahmed-mohamed-614459233/"> <img src="https://img.shields.io/badge/-Ahmed%20Abdelalim-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"> </a> <a href="mailto:ahmedmohamedabdelalim17@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"> </a> </p> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+I'm+Ahmed+Abdelalim!;Welcome+to+my+GitHub+Profile!;" /> </h1> <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMohamedAbdelalim" /> </p>
-🔭 I’m currently working on
-AI solutions for cybersecurity and intelligent detection systems.
+Great! Here's a clean and **CV-based GitHub README** just for you, Ahmed Abdelalim, using **only the info from your CV**:
 
-Predictive maintenance models using deep learning.
+---
 
-Software applications using C#, SQL Server, and Flutter.
+## 👋 Hi, I'm Ahmed Mohamed Abdelalim
 
-🌱 I’m currently learning
-Advanced cybersecurity techniques powered by AI.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-614459233/">
+    <img src="https://img.shields.io/badge/-Ahmed%20Abdelalim-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:ahmedmohamedabdelalim17@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
+  </a>
+</p>
 
-Transformer networks and generative models (GANs).
+---
 
-Cloud-based AI services on Azure and AWS.
+### 💼 Software Developer | AI Enthusiast
 
-👯 I’m looking to collaborate on
-Machine learning and deep learning research.
+Experienced in developing AI models, optimizing algorithms, and enhancing intelligent detection systems. Strong analytical and problem-solving skills, with a passion for leveraging AI to solve real-world challenges.
 
-IoT-based smart systems.
+---
 
-End-to-end AI-powered application development.
+### 🧠 Technical Skills
 
-🤔 I’m looking for help with
-Enhancing model generalization and optimization techniques.
+- **Languages**: Python, C#, C++, JavaScript, MATLAB, MySQL  
+- **Machine Learning**: Logistic Regression, Naïve Bayes, KNN, Linear Regression, SVM, Decision Trees, Random Forest, Gradient Boosting  
+- **Deep Learning**: CNN, RNN, LSTM, Transformer, GANs, VGG16  
+- **Frameworks**: TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn  
+- **IoT**: IoT App Development, Sensor Integration, Smart Systems  
+- **Backend**: SQL Server, Firebase  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Other**: C# Application Dev, Flutter, Azure, AWS (EC2, S3, SageMaker, Lambda), Git, IBM Watson Studio
 
-Real-world applications of AI in transportation and smart cities.
+---
 
-💬 Ask me about
-Predictive maintenance using ML/DL.
+### 📚 Education
 
-C# software and mobile app development.
+- **B.Sc. in Computer Science**  
+  October University for Modern Sciences and Arts (MSA) – GPA: 3.23  
+  University of Greenwich (UK)  
+  *(2020 – 2024)*
 
-AI in cybersecurity and threat detection.
+---
 
-📫 How to reach me
-LinkedIn
+### 💼 Internships
 
-Email
+- **AI in Cybersecurity Intern** – NTI *(Feb 2025 – Present)*  
+  Gained hands-on experience with network security, ethical hacking, and threat detection using AI.
 
-😄 Pronouns
-He/Him
+- **AI Intern** – Zewail City, IAO *(Aug – Oct 2023)*  
+  Worked on data preparation, statistics, and model development.
 
-⚡ Fun fact
-I love blending engineering precision with AI creativity to solve big problems!
+- **SQL Server & C# Intern** – ITI *(Jan – Feb 2023)*  
+  Built a clothing store management system using C# and SQL Server.
 
-🧠 Technical Highlights
-🧪 Artificial Intelligence & Machine Learning:
-Machine Learning: Random Forest, Gradient Boosting, SVM, Naïve Bayes, Logistic Regression, KNN.
+- **IoT Intern** – ITI *(Jul – Aug 2022)*  
+  Developed IoT apps, worked with mobile sensors and JavaScript.
 
-Deep Learning: CNN, RNN, LSTM, GRU, GANs, Transformer Networks, VGG16.
+---
 
-Tools: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, IBM Watson Studio.
+### 🛠 Projects
 
-🛠 Software & Web Development:
-Languages: Python, C#, JavaScript, C++, MATLAB.
+- **🔧 Predictive Maintenance for Metro Transportation**  
+  Built ML/DL models (RF, GBT, LSTM, GRU) to predict failures in metro systems.  
+  Enhanced reliability, reduced downtime, and optimized maintenance using ADASYN oversampling.
 
-Frameworks: Flask, Django, .NET, Flutter, Firebase.
+- **🌿 Tree Leaf Disease Classification**  
+  Used CNN, VGG16, and ML classifiers to identify diseased vs healthy leaves.
 
-Backend: SQL Server, MySQL, Firebase.
+- **🛒 Electrical Appliances Store App**  
+  C# + SQL Server app for inventory, sales, and secure record tracking.
 
-Frontend: HTML, CSS, JavaScript.
+---
 
-🌐 IoT & Cloud:
-IoT App Development, Sensor Integration, Smart Systems.
+### 🏅 Certifications
 
-Cloud Platforms: Microsoft Azure, AWS (EC2, S3, SageMaker, Lambda).
+- Microsoft Certified: Azure AI Fundamentals  
+- Microsoft Certified: Azure Data Fundamentals  
+- EFE: Data Analysis (IBM Watson Studio)  
+- IAO: Artificial Intelligence
 
-DevOps & Tools: Git, Docker.
+---
 
-📚 Notable Projects
-Predictive Maintenance for Metro Transportation
-Developed ML/DL models to forecast metro system failures and reduce downtime.
-Tools: LSTM, GRU, Random Forest, ADASYN.
+<p align="center">
+  <a href="mailto:ahmedmohamedabdelalim17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-614459233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Tree Leaf Disease Detection
-Built a classifier for healthy vs diseased leaves using CNNs and traditional ML.
-Tools: CNN, VGG16, Logistic Regression.
+---
 
-Electrical Appliances Store Management System
-C# & SQL-based desktop application for inventory and transaction tracking.
-
-<div align="center"> <a href="mailto:ahmedmohamedabdelalim17@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/ahmed-mohamed-614459233/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> </div> <hr/> <h2 align="center">⚒️ Languages & Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,tensorflow,pytorch,django,flask,azure,aws,mysql,postgresql,firebase,html,css,git,docker,vscode" /> </div>
+Would you like it saved as a `README.md` file or want help uploading it to your GitHub profile?
