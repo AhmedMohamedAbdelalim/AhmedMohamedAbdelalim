@@ -1,7 +1,3 @@
-Great! Here's a clean and **CV-based GitHub README** just for you, Ahmed Abdelalim, using **only the info from your CV**:
-
----
-
 ## 👋 Hi, I'm Ahmed Mohamed Abdelalim
 
 <p align="center">
