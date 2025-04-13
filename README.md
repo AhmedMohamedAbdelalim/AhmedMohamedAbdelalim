@@ -1,110 +1,83 @@
-## Hi there, I'm Ahmed Abdelalim 👋
+Hi there, I'm Ahmed Abdelalim 👋
+<p align="center"> <a href="https://www.linkedin.com/in/ahmed-mohamed-614459233/"> <img src="https://img.shields.io/badge/-Ahmed%20Abdelalim-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"> </a> <a href="mailto:ahmedmohamedabdelalim17@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"> </a> </p> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+I'm+Ahmed+Abdelalim!;Welcome+to+my+GitHub+Profile!;" /> </h1> <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMohamedAbdelalim" /> </p>
+🔭 I’m currently working on
+AI solutions for cybersecurity and intelligent detection systems.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-hadhood-ab343a240/">
-    <img src="https://img.shields.io/badge/-Ali%20Hadhood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-hadhood-ab343a240/" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:ali.abdallah01069621490@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@example.com" alt="Email Badge">
-  </a>
-</p>
+Predictive maintenance models using deep learning.
 
-<p align="center">
-  Welcome to my GitHub profile! I'm a passionate developer and machine learning enthusiast.
-</p>
+Software applications using C#, SQL Server, and Flutter.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Hadhood!;" />
-</h1>
+🌱 I’m currently learning
+Advanced cybersecurity techniques powered by AI.
 
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AliHadhood.AliHadhood" />
-</p>
+Transformer networks and generative models (GANs).
 
-### 🔭 I’m currently working on
-- Deep learning projects utilizing advanced neural network architectures.
-- Machine learning models for predictive analytics and data-driven solutions.
-- Back-end web development to create robust and scalable web applications.
+Cloud-based AI services on Azure and AWS.
 
-### 🌱 I’m currently learning
-- Advanced NLP techniques and applications.
-- Cutting-edge machine learning algorithms and their practical implementations.
-- Cloud services for deploying and scaling machine learning models.
+👯 I’m looking to collaborate on
+Machine learning and deep learning research.
 
-### 👯 I’m looking to collaborate on
-- Open-source deep learning and machine learning projects.
-- Innovative web development projects that require back-end expertise.
-- Interdisciplinary projects that combine AI with other fields.
+IoT-based smart systems.
 
-### 🤔 I’m looking for help with
-- Enhancing the efficiency of deep learning models.
-- Exploring novel applications of AI in different industries.
-- Integrating advanced machine learning models into web applications.
+End-to-end AI-powered application development.
 
-### 💬 Ask me about
-- Deep learning and neural networks.
-- Machine learning algorithms and techniques.
-- Back-end web development frameworks and practices.
+🤔 I’m looking for help with
+Enhancing model generalization and optimization techniques.
 
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/ali-hadhood-ab343a240/)
+Real-world applications of AI in transportation and smart cities.
 
-### 😄 Pronouns
-- He/Him
+💬 Ask me about
+Predictive maintenance using ML/DL.
 
-### ⚡ Fun fact
-- I love exploring the intersection of technology and creativity, and I'm always up for a good tech-related challenge!
+C# software and mobile app development.
 
----
+AI in cybersecurity and threat detection.
 
-### About Me
+📫 How to reach me
+LinkedIn
 
-#### Deep Learning:
-- Proficiency in implementing deep learning algorithms such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs).
-- Familiarity with frameworks and libraries such as TensorFlow, Keras, PyTorch, and Caffe for developing deep learning models.
-- Experience with basic natural language processing (NLP) tasks including sentiment analysis, text generation, and named entity recognition (NER).
-- Ability to optimize neural network architectures with guidance for performance and efficiency.
+Email
 
-#### Machine Learning:
-- Solid understanding of machine learning algorithms including regression, classification, clustering, and dimensionality reduction techniques.
-- Proficiency in using scikit-learn, XGBoost, and other machine learning libraries for model development and evaluation.
-- Experience in basic feature engineering and hyperparameter tuning to enhance predictive performance.
-- Familiarity with basic deployment practices for machine learning models.
+😄 Pronouns
+He/Him
 
-#### Web Development (Back-End):
-- Proficiency in back-end development using languages such as Python and JavaScript (Node.js).
-- Experience with back-end frameworks like Django, Flask (Python), and Express.js (Node.js).
-- Understanding of server-side programming concepts including handling HTTP requests, authentication, and session management.
-- Ability to design and implement basic RESTful APIs for communication between front-end and back-end systems.
-- Familiarity with database management systems including SQL databases like PostgreSQL and MySQL, as well as NoSQL databases like MongoDB.
-- Basic understanding of ORM (Object-Relational Mapping) libraries such as SQLAlchemy (Python) and Mongoose (Node.js) for database interaction.
+⚡ Fun fact
+I love blending engineering precision with AI creativity to solve big problems!
 
-#### Additional Skills:
-- Proficient in using Git for version control and collaborative development.
-- Basic knowledge of containerization technologies such as Docker for development environments.
-- Strong problem-solving and debugging skills, with a commitment to continuous learning and staying updated with industry trends.
-- Effective communication and teamwork abilities, demonstrated through collaboration on projects and conveying technical concepts to non-technical stakeholders.
+🧠 Technical Highlights
+🧪 Artificial Intelligence & Machine Learning:
+Machine Learning: Random Forest, Gradient Boosting, SVM, Naïve Bayes, Logistic Regression, KNN.
 
-<div align="center"> 
-  <a href="mailto:ali.abdallah01069621490@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-    
-  <a href="https://www.linkedin.com/in/ali-hadhood-ab343a240/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+Deep Learning: CNN, RNN, LSTM, GRU, GANs, Transformer Networks, VGG16.
 
-<hr/>
+Tools: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, IBM Watson Studio.
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,pytorch,django,flask,nodejs,postgresql,mongodb,git,github,docker" />
-</div>
+🛠 Software & Web Development:
+Languages: Python, C#, JavaScript, C++, MATLAB.
 
-<br/>
-<hr/>
+Frameworks: Flask, Django, .NET, Flutter, Firebase.
 
+Backend: SQL Server, MySQL, Firebase.
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/ali-hadhood-ab343a240/). Let's create something amazing together! 🚀
+Frontend: HTML, CSS, JavaScript.
+
+🌐 IoT & Cloud:
+IoT App Development, Sensor Integration, Smart Systems.
+
+Cloud Platforms: Microsoft Azure, AWS (EC2, S3, SageMaker, Lambda).
+
+DevOps & Tools: Git, Docker.
+
+📚 Notable Projects
+Predictive Maintenance for Metro Transportation
+Developed ML/DL models to forecast metro system failures and reduce downtime.
+Tools: LSTM, GRU, Random Forest, ADASYN.
+
+Tree Leaf Disease Detection
+Built a classifier for healthy vs diseased leaves using CNNs and traditional ML.
+Tools: CNN, VGG16, Logistic Regression.
+
+Electrical Appliances Store Management System
+C# & SQL-based desktop application for inventory and transaction tracking.
+
+<div align="center"> <a href="mailto:ahmedmohamedabdelalim17@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/ahmed-mohamed-614459233/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> </div> <hr/> <h2 align="center">⚒️ Languages & Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,tensorflow,pytorch,django,flask,azure,aws,mysql,postgresql,firebase,html,css,git,docker,vscode" /> </div>
