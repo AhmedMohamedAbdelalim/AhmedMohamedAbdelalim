@@ -75,6 +75,7 @@ Experienced in developing AI models, optimizing algorithms, and enhancing intell
 - Microsoft Certified: Azure Data Fundamentals  
 - EFE: Data Analysis (IBM Watson Studio)  
 - IAO: Artificial Intelligence
+- DeepLearning.AI, Stanford University:Supervised Machine Learning: Regression and Classification
 
 ---
 
