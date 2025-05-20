@@ -11,7 +11,7 @@
 
 ---
 
-### 💼 Software Developer | AI Enthusiast
+### Data Scientist
 
 Passionate about data science and AI, with strong experience in developing intelligent solutions using data analysis, machine learning models, and algorithm optimization. Skilled in data engineering and statistical analysis, with a solid ability to extract insights from complex data to solve real-world challenges.
 
